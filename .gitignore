@@ -1,0 +1,9 @@
+/.encore
+encore.gen.go
+encore.gen.cue
+/encore.gen
+/.worktrees
+/docs/
+/.gocache
+/.gomodcache
+*.log
